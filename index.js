@@ -237,6 +237,7 @@ addEventListener('click', (event)=>{
    velocity))
 })
 //restarting
+// cat
 startGameBtn.addEventListener('click', ()=>{
     init()
     animate()
